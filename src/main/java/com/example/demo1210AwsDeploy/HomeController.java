@@ -12,4 +12,7 @@ public class HomeController {
     public  String getData(){
         return  "hi  spring Data";
     }
+
+
+
 }
